@@ -7,7 +7,7 @@ while True:
     
     # IF CONDITION FOR TERMINATION OF PROGRAM
     if rw == 0 or cl == -1:
-        print("Stop the loop")
+        print("The program has been terminated")
         exit()
 
     # DISPLAYS THE TABLE
@@ -29,4 +29,3 @@ while True:
                 print(val, end="\t")
         print()
     print()
-
