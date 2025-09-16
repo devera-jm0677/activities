@@ -1,4 +1,4 @@
-# I based the conversion rate on Google's conversion
+# I based the conversion rate on Google's Dollar conversion on Indian Rupee's, British Pound, and Chinese Yuan
 def convert(D):
     r_RATE, p_RATE, y_RATE = 88.05, 1.36, 7.12
 
